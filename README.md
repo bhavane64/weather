@@ -2,19 +2,7 @@
 
 This is a weather application built with React that displays the weather information for a given city. It fetches weather data from the OpenWeatherMap API and updates the background image based on the temperature.
 
-## Sample pics
 
-#### Desktop view
-![image](https://github.com/Babjidurga/weatherapp/assets/113676689/9efe9079-2d0c-4953-872d-63fbbe339d89)
-#### Tablet View
-![image](https://github.com/Babjidurga/weatherapp/assets/113676689/a31c340d-9c9f-4e36-b380-bdd6bb2f36ae)
-#### Mobile View
-![image](https://github.com/Babjidurga/weatherapp/assets/113676689/beacca53-9ef5-453b-973f-2b3be4431e84)
-
-## Functionality
-
-you can check the functionality of Here 
-### https://weatherapp-babjidurga.vercel.app/
 
 - Allows the user to enter a city name in the input field to fetch the weather data for that city.
 - Displays the current temperature, weather description, and city name along with an appropriate weather icon.
